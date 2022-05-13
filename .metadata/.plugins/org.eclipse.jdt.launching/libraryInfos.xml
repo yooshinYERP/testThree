@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\YERP\jdk\openjdk-1.8.0.322-2\jre" version="1.8.0_322">
+<bootpath>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\resources.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\rt.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\sunrsasign.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jsse.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jce.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\charsets.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jfr.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\YERP\jdk\openjdk-1.8.0.322-2" version="1.8.0_322">
+<bootpath>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\resources.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\rt.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\sunrsasign.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jsse.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jce.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\charsets.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\jfr.jar"/>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\YERP\jdk\openjdk-1.8.0.322-2\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
