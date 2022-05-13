@@ -31,19 +31,19 @@ InetAddress inet= InetAddress.getLocalHost();
 // 		}
 // 	}
 // 	if(movePage == null) response.sendRedirect("/index");
-	if("/login.xml".equals(movePage)) {
-		if((null != userId && !"".equals(userId))) {
-			response.sendRedirect("/index");
-		}
-		else {
-			redirectLogin = false;
-		}
-	}
-	if(redirectLogin) {
-		if((null == userId || "".equals(userId))) {
-			response.sendRedirect("/login");
-		}
-	}
+// 	if("/login.xml".equals(movePage)) {
+// 		if((null != userId && !"".equals(userId))) {
+// 			response.sendRedirect("/index");
+// 		}
+// 		else {
+// 			redirectLogin = false;
+// 		}
+// 	}
+// 	if(redirectLogin) {
+// 		if((null == userId || "".equals(userId))) {
+// 			response.sendRedirect("/login");
+// 		}
+// 	}
 %>
 		<script type="text/javascript">
 			var WebSquareExternal = {"baseURI": "/websquare/", "w2xPath":"<%=movePage%>" };

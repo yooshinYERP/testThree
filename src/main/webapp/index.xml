@@ -275,21 +275,21 @@
 	};
 	
 	scwin.setUserInfo = function() {
-		var userInfo = $p.local.getItem("userInfo");
-		$p.local.removeItem("userInfo");
-		dlt_G0.setJSON(JSON.parse(userInfo));
-		WebSquare.ModelUtil.setInstanceNode(dlt_G0.getXML(), "USER_INFO", "", "replace");
-		var userNm = _util.getSessionInfo().SESSION_USER_KRNM;
-		if(userNm == ""){
-			userNm = "홍길동";
-		}
-		wf_header.getWindow().ac_mypage.setValue(userNm);
+//		var userInfo = $p.local.getItem("userInfo");
+//		$p.local.removeItem("userInfo");
+//		dlt_G0.setJSON(JSON.parse(userInfo));
+//		WebSquare.ModelUtil.setInstanceNode(dlt_G0.getXML(), "USER_INFO", "", "replace");
+//		var userNm = _util.getSessionInfo().SESSION_USER_KRNM;
+//		if(userNm == ""){
+//			userNm = "홍길동";
+//		}
+//		wf_header.getWindow().ac_mypage.setValue(userNm);
 		var menuSe = wf_header.getWindow().scwin.fn_getMenuSe();
 		scwin.fn_setMenu(menuSe);
-		scwin.fn_setLeftMenu(menuSe);
-		scwin.fn_setMyMenu();
-		scwin.fn_getCommonCode();
-		scwin.fn_getUserAuth();
+//		scwin.fn_setLeftMenu(menuSe);
+//		scwin.fn_setMyMenu();
+//		scwin.fn_getCommonCode();
+//		scwin.fn_getUserAuth();
 	};
 	
 	scwin.ac_tab_allclose_onclick = function() {

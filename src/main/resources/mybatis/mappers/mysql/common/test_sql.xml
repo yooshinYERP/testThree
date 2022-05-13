@@ -29,6 +29,10 @@
         DELETE FROM TEST WHERE IDX = #{IDX} 
     </delete>
 
+	<select id="test" parameterType="jsonObject" resultType="jsonObject">
+		${execute_Sql}
+	</select>
+
 
 </mapper>
   

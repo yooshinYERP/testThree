@@ -39,16 +39,12 @@
 	
 	<initScript value="true" >
 		<![CDATA[
-			if($p.getComponentById("textarea1")){
-				textarea1.setValue(textarea1.getValue() + "initScript - main" + "\n");
-			}
+			_util.changePageState();
 		]]>
 	</initScript>
 	<postScript value="true">
 		<![CDATA[
-			if($p.getComponentById("textarea1")){
-				textarea1.setValue(textarea1.getValue() + "postScript - main" + "\n");
-			}
+			
 		]]>
 	</postScript>
 	
@@ -183,16 +179,12 @@
 		<mode value="sync"/>
 		<initScript value="true" >
 			<![CDATA[
-				if($p.getComponentById("mf_textarea1")){
-					mf_textarea1.setValue(mf_textarea1.getValue() + "initScript - " + $p.getFrameId() + "\n");
-				}
+				
 			]]>
 		</initScript>
 		<postScript value="true">
 			<![CDATA[
-				if($p.getComponentById("mf_textarea1")){
-					mf_textarea1.setValue(mf_textarea1.getValue() + "postScript - " + $p.getFrameId() + "\n");
-				}
+				
 			]]>
 		</postScript>
 	</wframe>

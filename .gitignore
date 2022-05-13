@@ -4,10 +4,10 @@
 #file.c
 
 # 최상위 폴더의 file.c
-#/file.c
+#file.c
 
 # 모든 .c 확장자 파일
-#*.c
+#.c
 
 # .c 확장자지만 무시하지 않을 파일
 #!not_ignore_this.c
@@ -16,14 +16,14 @@
 #logs
 
 # logs란 이름의 폴더와 그 내용들
-#logs/
+#logs
 
 # logs 폴더 바로 안의 debug.log와 .c 파일들
-#logs/debug.log
-#logs/*.c
+#logsdebug.log
+#logs.c
 
 # logs 폴더 바로 안, 또는 그 안의 다른 폴더(들) 안의 debug.log
-#logs/**/debug.log
+#logsdebug.log
 
 
 
@@ -32,11 +32,11 @@
 
 
 
-# Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,windows
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,windows
+# Created by httpswww.toptal.comdevelopersgitignoreapijava,eclipse,windows
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=java,eclipse,windows
 
-build/
+build
 
 
 
-# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows
+# End of httpswww.toptal.comdevelopersgitignoreapijava,eclipse,windows

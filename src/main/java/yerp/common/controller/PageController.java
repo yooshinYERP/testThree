@@ -39,7 +39,19 @@ public class PageController {
 
 	@GetMapping(value = "/")
 	public String index(@CommonParam Map<String, Object> parameter, HttpSession session,
-			HttpServletRequest request) {
+			HttpServletRequest request, Model model) {
+//		String jspUrl = request.getRequestURI();
+		String movePage = request.getParameter("w2xPath");
+		String userId = (String) session.getAttribute("SESSION_USER_IDNT");
+		
+		if(userId == null || userId.equals("")) {
+			movePage = "/login.xml";
+		}
+		else {
+			movePage = "/index.xml";
+		}
+		model.addAttribute("movePage", movePage);
+		
 		return "websquare";
 	}
 	

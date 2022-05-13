@@ -99,8 +99,8 @@
 				if(res.out == "Y"){
 					$p.local.setItem("userInfo", JSON.stringify(res.info));
 					var w2xPath = "/index.xml";
-					$p.url(w2xPath, {"spa" : false, "replaceHistory" : true, "shortURL" : true});
-//					location.href = "/login";
+//					$p.url(w2xPath, {"spa" : false, "replaceHistory" : true, "shortURL" : true});
+					location.href = "/";
 				}
 				else if(res.out == "N"){
 					ip_pw.setValue("");
