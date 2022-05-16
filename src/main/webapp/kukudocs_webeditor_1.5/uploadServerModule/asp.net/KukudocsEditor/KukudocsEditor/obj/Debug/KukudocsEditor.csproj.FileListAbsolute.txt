@@ -1,0 +1,73 @@
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.exe
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.rsp
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\csi.exe
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\csi.rsp
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.AppContext.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.exe
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.rsp
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\VBCSCompiler.exe
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.dll.config
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.pdb
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.dll
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.pdb
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.Properties.Resources.resources
+c:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.dll.config
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\KukudocsEditor.pdb
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.dll
+C:\Users\Administrator\Desktop\KukudocsEditor\KukudocsEditor\obj\Debug\KukudocsEditor.pdb

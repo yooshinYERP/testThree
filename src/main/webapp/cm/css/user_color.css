@@ -1,0 +1,145 @@
+/* ************************************
+              user_color 
+***************************************/
+
+/* user_color 헤더 */
+.user_color0 .header {background-color: #000;}
+.user_color1 .header {background-color: #005BAC;}
+.user_color2 .header {background-color: #707070;}
+.user_color3 .header {background-color: #FDCC3D;}
+.user_color4 .header {background-color: #fff;}
+
+.user_color0 .header .option_box > ul > li > a.btn_mypage:hover, .user_color0 .header .option_box > ul > li > a.btn_mypage.on,
+.user_color0 .gnb_menu > li.on > a, .user_color0 .gnb_menu > li > a:hover{color: #1875f0;}
+.user_color1 .header .option_box > ul > li > a.btn_mypage:hover, .user_color1 .header .option_box > ul > li > a.btn_mypage.on,
+.user_color1 .gnb_menu > li.on > a, .user_color1 .gnb_menu > li > a:hover{color: #74ACF6;}
+.user_color2 .header .option_box > ul > li > a.btn_mypage:hover, .user_color2 .header .option_box > ul > li > a.btn_mypage.on,
+.user_color2 .gnb_menu > li.on > a, .user_color2 .gnb_menu > li > a:hover{color:#FDCC3D;}
+.user_color3 .header .option_box > ul > li > a.btn_mypage:hover, .user_color3 .header .option_box > ul > li > a.btn_mypage.on,
+.user_color3 .gnb_menu > li.on > a, .user_color3 .gnb_menu > li > a:hover{color: #fff;}
+.user_color4 .header .option_box > ul > li > a.btn_mypage:hover, .user_color4 .header .option_box > ul > li > a.btn_mypage.on,
+.user_color4 .gnb_menu > li.on > a, .user_color4 .gnb_menu > li > a:hover{color: #1875f0;}
+
+.user_color0 .header .option_box ul li .btn_mypage:before{background-position:0 0;}
+.user_color0 .header .option_box ul li .btn_mypage:hover:before{background-postion: 0 0;}
+.user_color1 .header .option_box ul li .btn_mypage:before{background-position: -8px 0;}
+.user_color1 .header .option_box ul li .btn_mypage:hover:before{background-postion: -8px 0;}
+.user_color2 .header .option_box ul li .btn_mypage:before{background-position: -16px 0;}
+.user_color2 .header .option_box ul li .btn_mypage:hover:before{background-postion: -16px 0;}
+.user_color3 .header .option_box ul li .btn_mypage:before{background-position: -24px 0;}
+.user_color3 .header .option_box ul li .btn_mypage:hover:before{background-postion: -24px 0;}
+.user_color4 .header .option_box ul li .btn_mypage:before{background-position: -32px 0;}
+.user_color4 .header .option_box ul li .btn_mypage:hover:before{background-postion: -32px 0;}
+
+.user_color0 .gnb_menu > li.on > a:before, .user_color1 .gnb_menu > li > a:hover:before{background-color: #1875f0;}
+.user_color1 .gnb_menu > li.on > a:before, .user_color1 .gnb_menu > li > a:hover:before{background-color: #74ACF6;}
+.user_color2 .gnb_menu > li.on > a:before, .user_color2 .gnb_menu > li > a:hover:before{background-color: #FDCC3D;}
+.user_color3 .gnb_menu > li.on > a:before, .user_color3 .gnb_menu > li > a:hover:before{background-color: #fff;}
+.user_color4 .gnb_menu > li.on > a:before, .user_color4 .gnb_menu > li > a:hover:before{background-color: #1875f0;}
+
+.user_color0 .header .w2anchor a, .user_color0 .header .w2anchor2{color:#e8e8e8;}
+.user_color1 .header .w2anchor a, .user_color1 .header .w2anchor2{color:#e8e8e8;}
+.user_color2 .header .w2anchor a, .user_color2 .header .w2anchor2{color:#e8e8e8;}
+.user_color3 .header .w2anchor a, .user_color3 .header .w2anchor2{color:#444;}
+.user_color4 .header .w2anchor a, .user_color4 .header .w2anchor2{color:#444;}
+
+.user_color0 .header .option_box > ul > li > a.btn_mypage{color:#E8E8E8;}
+.user_color1 .header .option_box > ul > li > a.btn_mypage{color:#E8E8E8;}
+.user_color2 .header .option_box > ul > li > a.btn_mypage{color:#fff;}
+.user_color3 .header .option_box > ul > li > a.btn_mypage{color:#444;}
+.user_color4 .header .option_box > ul > li > a.btn_mypage{color:#444;}
+
+.user_color0 .header .btn_toggle_menu:after {background-position: 0 0;}
+.user_color1 .header .btn_toggle_menu:after {background-position: -20px 0;}
+.user_color2 .header .btn_toggle_menu:after {background-position: -20px 0;}
+.user_color3 .header .btn_toggle_menu:after {background-position: -40px 0;}
+.user_color4 .header .btn_toggle_menu:after {background-position: -40px 0;}
+
+.user_color0 .header h1 .logo{background-position: 0 0;}
+.user_color1 .header h1 .logo{background-position: 0 0;}
+.user_color2 .header h1 .logo{background-position: 0 -70px;}
+.user_color3 .header h1 .logo{background-position: 0 -70px;}
+.user_color4 .header h1 .logo{background-position: 0 -140px;}
+
+.user_color0 .header .option_box ul li .btn_shortcut{background-position: 0 center ;}
+.user_color1 .header .option_box ul li .btn_shortcut{background-position: -28px center ;}
+.user_color2 .header .option_box ul li .btn_shortcut{background-position: -56px center ;}
+.user_color3 .header .option_box ul li .btn_shortcut{background-position: -84px center ;}
+.user_color4 .header .option_box ul li .btn_shortcut{background-position: -112px center ;}
+
+.user_color0 .header .option_box ul li .btn_setting{background-position: 0 center ;}
+.user_color1 .header .option_box ul li .btn_setting{background-position: -26px center ;}
+.user_color2 .header .option_box ul li .btn_setting{background-position: -52px center ;}
+.user_color3 .header .option_box ul li .btn_setting{background-position: -78px center ;}
+.user_color4 .header .option_box ul li .btn_setting{background-position: -104px center ;}
+
+/* user_color sideTab */
+.user_color0 .side .grp_tab > .tab_tit > li.on {background: #1875f0;}
+.user_color0 .side .grp_tab > .tab_tit > li.on > a {color: #fff !important;}
+.user_color0 .side .grp_tab > .tab_tit > li:hover > a {color: #1875f0;}
+
+.user_color1 .side .grp_tab > .tab_tit > li.on {background: #74ACF6;}
+.user_color1 .side .grp_tab > .tab_tit > li.on > a {color: #fff !important;}
+.user_color1 .side .grp_tab > .tab_tit > li:hover > a {color: #74ACF6;}
+
+.user_color2 .side .grp_tab > .tab_tit > li.on {background: #FDCC3D;}
+.user_color2 .side .grp_tab > .tab_tit > li.on > a {color: #444 !important; font-weight: 500 !important;}
+.user_color2 .side .grp_tab > .tab_tit > li:hover > a {color: #FDCC3D;}
+
+.user_color3 .side .grp_tab > .tab_tit > li.on {background: #444;}
+.user_color3 .side .grp_tab > .tab_tit > li.on > a {color: #fff !important;}
+.user_color3 .side .grp_tab > .tab_tit > li:hover > a {color: #FDCC3D;}
+
+.user_color4 .side .grp_tab > .tab_tit > li.on {background: #1875f0;}
+.user_color4 .side .grp_tab > .tab_tit > li.on > a {color: #fff !important;}
+.user_color4 .side .grp_tab > .tab_tit > li:hover > a {color: #1875f0;}
+
+.user_color0 .side .grp_tab > .shortcut_box .btn_fold,
+.user_color0 .side .grp_tab > .shortcut_box .btn_fold_list{background-position: 0 0;}
+.user_color1 .side .grp_tab > .shortcut_box .btn_fold,
+.user_color1 .side .grp_tab > .shortcut_box .btn_fold_list{background-position: 0 0;}
+.user_color2 .side .grp_tab > .shortcut_box .btn_fold,
+.user_color2 .side .grp_tab > .shortcut_box .btn_fold_list{background-position: 0 0;}
+.user_color3 .side .grp_tab > .shortcut_box .btn_fold,
+.user_color3 .side .grp_tab > .shortcut_box .btn_fold_list{background-position: 0 0;}
+.user_color4 .side .grp_tab > .shortcut_box .btn_fold,
+.user_color4 .side .grp_tab > .shortcut_box .btn_fold_list{background-position: 0 0;}
+
+.user_color0 .side .grp_tab > .shortcut_box .btn_fold.on,
+.user_color0 .side .grp_tab > .shortcut_box .btn_fold_list.on{background-position: 0 0;}
+.user_color1 .side .grp_tab > .shortcut_box .btn_fold.on,
+.user_color1 .side .grp_tab > .shortcut_box .btn_fold_list.on{background-position: -22px 0;}
+.user_color2 .side .grp_tab > .shortcut_box .btn_fold.on,
+.user_color2 .side .grp_tab > .shortcut_box .btn_fold_list.on{background-position: -44px 0;}
+.user_color3 .side .grp_tab > .shortcut_box .btn_fold.on,
+.user_color3 .side .grp_tab > .shortcut_box .btn_fold_list.on{background-position: -66px 0;}
+.user_color4 .side .grp_tab > .shortcut_box .btn_fold.on,
+.user_color4 .side .grp_tab > .shortcut_box .btn_fold_list.on{background-position: -88px 0;}
+
+.user_color0 .tw_menu .w2treeview_open_child .w2treeview_row_depth2 .w2treeview_icon_navi,
+.user_color0 .tw_menu .w2treeview_open_child .w2treeview_row_depth3 .w2treeview_icon_navi{background-position-x: 0;}
+.user_color1 .tw_menu .w2treeview_open_child .w2treeview_row_depth2 .w2treeview_icon_navi,
+.user_color1 .tw_menu .w2treeview_open_child .w2treeview_row_depth3 .w2treeview_icon_navi{background-position-x: -16px;}
+.user_color2 .tw_menu .w2treeview_open_child .w2treeview_row_depth2 .w2treeview_icon_navi,
+.user_color2 .tw_menu .w2treeview_open_child .w2treeview_row_depth3 .w2treeview_icon_navi{background-position-x: -32px;}
+.user_color3 .tw_menu .w2treeview_open_child .w2treeview_row_depth2 .w2treeview_icon_navi,
+.user_color3 .tw_menu .w2treeview_open_child .w2treeview_row_depth3 .w2treeview_icon_navi{background-position-x: -48px;}
+.user_color4 .tw_menu .w2treeview_open_child .w2treeview_row_depth2 .w2treeview_icon_navi,
+.user_color4 .tw_menu .w2treeview_open_child .w2treeview_row_depth3 .w2treeview_icon_navi{background-position-x: -64 px;}
+
+/* user_color 탭컨트롤 */
+.user_color0 .wq_tbc .w2tabcontrol_li.w2tabcontrol_active{border: 1px solid #1875f0;background-color: #1875f0 !important;}
+.user_color0 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_active .w2tabcontrol_tab_center a{color:#fff !important}
+.user_color0 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_over .w2tabcontrol_tab_center a{color:#1875f0}
+.user_color1 .wq_tbc .w2tabcontrol_li.w2tabcontrol_active{border: 1px solid #74ACF6;background-color: #74ACF6 !important;}
+.user_color1 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_active .w2tabcontrol_tab_center a{color:#fff !important}
+.user_color1 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_over .w2tabcontrol_tab_center a{color:#74ACF6}
+.user_color2 .wq_tbc .w2tabcontrol_li.w2tabcontrol_active{border: 1px solid #FDCC3D;background-color: #FDCC3D !important;}
+.user_color2 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_active .w2tabcontrol_tab_center a{color:#444 !important}
+.user_color2 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_over .w2tabcontrol_tab_center a{color:#FDCC3D}
+.user_color3 .wq_tbc .w2tabcontrol_li.w2tabcontrol_active{border: 1px solid #FDCC3D;background-color: #FDCC3D !important;}
+.user_color3 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_active .w2tabcontrol_tab_center a{color:#444 !important}
+.user_color3 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_over .w2tabcontrol_tab_center a{color:#FDCC3D}
+.user_color4 .wq_tbc .w2tabcontrol_li.w2tabcontrol_active{border: 1px solid #1875f0;background-color: #1875f0 !important;}
+.user_color4 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_active .w2tabcontrol_tab_center a{color:#fff !important}
+.user_color4 .wq_tbc .w2tabcontrol_tabhost .w2tabcontrol_over .w2tabcontrol_tab_center a{color:#1875f0}
